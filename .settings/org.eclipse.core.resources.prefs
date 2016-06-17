@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/YYOwnBlog/urls.py=UTF-8
+encoding//src/blog/migrations/0001_initial.py=utf-8
+encoding//src/blog/migrations/0002_auto_20160526_1441.py=utf-8
+encoding//src/blog/models.py=UTF-8
+encoding//src/blog/views.py=UTF-8
+encoding//src/templates/article_details.html=UTF-8
+encoding//src/templates/base.html=UTF-8
